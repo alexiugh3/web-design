@@ -1,4 +1,4 @@
-![network brackets illustration](network-brackets.png)
+![network brackets illustration](web-design/network-brackets.png)
 # Introduction to Web Design
 ## Seasons in Washington Square Park
 ### In-class demo for educational purposes
