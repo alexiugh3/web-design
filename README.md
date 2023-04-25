@@ -1,2 +1,3 @@
-# web-design
-In-class demo for educational purposes
+# Introduction to Web Design
+## Seasons in Washington Square Park
+### In-class demo for educational purposes
